@@ -15,11 +15,11 @@
 **Databases**
 
 ![SQLite](https://img.shields.io/badge/-SQLite-%232c3e50?style=flat-square&logo=SQLite)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
 
 **Front-end**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
@@ -27,6 +27,11 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![StanislavPopovSP github stats](https://github-readme-stats.vercel.app/api?username=StanislavPopovSP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![StanislavPopovSP Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavPopovSP&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **StanislavPopovSP/StanislavPopovSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
