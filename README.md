@@ -5,7 +5,7 @@
 Я начинающий back-end разработчик. Начал свой путь в апреле 2022 года, до этого времени с программированием не было связано ни чего, даже в школе мы ни чего не изучали, от этого даже как-то грустно. Закончил годовой курс создание WEB-приложений с использованием Python, этот курс дал мне понимание куда нужно двигаться дальше. Я не пожалел что, выбрал для изучения высокоуровневый язык программирования Python. Чем больше его изучаешь тем интереснее становится программирование на нём, с каждым месяцем раскрываются новые его возможности. Сейчас я нахожусь в поиске работы, изучаю требуемые недостающие навыки, как правило, они бесконечны. 
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-StanislavPopovSP-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Stas59RUS) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:staspopov4@gmail.com)
