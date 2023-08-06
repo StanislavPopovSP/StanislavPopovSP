@@ -26,8 +26,8 @@
 
 **Databases**
 
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-%232c3e50?style=flat-square&logo=SQLite)
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
 
 **Front-end**
 
