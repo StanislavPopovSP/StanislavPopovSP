@@ -26,9 +26,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![StanislavPopovSP Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavPopovSP&layout=compact&count_private=true&theme=gruvbox)
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
 <!--
 **StanislavPopovSP/StanislavPopovSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
