@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<p align="left">
+<p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
