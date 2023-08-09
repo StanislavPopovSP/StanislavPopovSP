@@ -1,15 +1,3 @@
-# Привет, меня зовут Станислав я Python разработчик!
-
-### :man_technologist: Обо мне:
-
-Закончил годовой курс создание WEB-приложений с использованием Python, этот курс дал мне понимание куда нужно двигаться дальше. Я не пожалел что, выбрал для изучения высокоуровневый язык программирования Python. Чем больше его изучаешь тем интереснее становится программирование на нём, с каждым месяцем раскрываю его новые возможности. 
-
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-StanislavPopovSP-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Stas59RUS) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:staspopov4@gmail.com)
-
 ---
 
 ## Technology stack
